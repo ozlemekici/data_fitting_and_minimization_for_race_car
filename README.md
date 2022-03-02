@@ -1,4 +1,4 @@
-# Data Analysis with Least Squares and Monte Carlo
+# Data Fitting and Minimization Function
 
 **What is least squares method?**
 <br/>
